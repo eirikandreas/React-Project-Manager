@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Project Manager
+Small react project that lets you view and create projects. You can also assign client, employee, project type and description to each project within the app state. React-Bootstrap for layout.
+
+**The focus of this project:**
+* Components
+* Router
+* props
+* PropTypes
+* defaultProps
+* useState
+* Bootstrap
 
 ## Available Scripts
 
