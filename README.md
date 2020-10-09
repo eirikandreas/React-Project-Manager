@@ -10,6 +10,8 @@ Small react project that lets you view and create projects. You can also assign 
 * useState
 * Bootstrap
 
+![alt text](https://github.com/eirikandreas/react-project-manager/blob/master/screenshot.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
