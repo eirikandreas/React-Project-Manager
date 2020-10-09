@@ -85,7 +85,7 @@
       <workItem from="1601240160441" duration="813000" />
       <workItem from="1601456465771" duration="752000" />
       <workItem from="1601627141493" duration="47000" />
-      <workItem from="1602266002559" duration="1272000" />
+      <workItem from="1602266002559" duration="1506000" />
     </task>
     <task id="LOCAL-00001" summary="Added React project">
       <created>1602266234296</created>
@@ -143,34 +143,34 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="672" y="251" key="#npm_start/0.23.1792.1097@0.23.1792.1097" timestamp="1602266844918" />
-    <state width="1771" height="255" key="GridCell.Tab.0.bottom" timestamp="1602267223921">
+    <state width="1771" height="255" key="GridCell.Tab.0.bottom" timestamp="1602278225633">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="885" height="271" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1601065997152" />
-    <state width="1771" height="255" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1602267223921" />
-    <state width="1771" height="255" key="GridCell.Tab.0.center" timestamp="1602267223920">
+    <state width="1771" height="255" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1602278225633" />
+    <state width="1771" height="255" key="GridCell.Tab.0.center" timestamp="1602278225632">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="885" height="271" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1601065997151" />
-    <state width="1771" height="255" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1602267223920" />
-    <state width="1771" height="255" key="GridCell.Tab.0.left" timestamp="1602267223920">
+    <state width="1771" height="255" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1602278225632" />
+    <state width="1771" height="255" key="GridCell.Tab.0.left" timestamp="1602278225632">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="885" height="271" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1601065997150" />
-    <state width="1771" height="255" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1602267223920" />
-    <state width="1771" height="255" key="GridCell.Tab.0.right" timestamp="1602267223921">
+    <state width="1771" height="255" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1602278225632" />
+    <state width="1771" height="255" key="GridCell.Tab.0.right" timestamp="1602278225633">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="885" height="271" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1601065997151" />
-    <state width="1771" height="255" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1602267223921" />
+    <state width="1771" height="255" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1602278225633" />
     <state x="799" y="256" key="RollbackChangesDialog" timestamp="1602267104239">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="799" y="256" key="RollbackChangesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1602267104239" />
-    <state x="332" y="185" key="SettingsEditor" timestamp="1602267276606">
+    <state x="332" y="185" key="SettingsEditor" timestamp="1602267294335">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="332" y="185" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1602267276606" />
+    <state x="332" y="185" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1602267294335" />
     <state x="941" y="469" key="VCS.EditChangelistDialog" timestamp="1602267126151">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
